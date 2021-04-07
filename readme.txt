@@ -1,1 +1,0 @@
-Authentication is required but no CredentialsProvider has been registered
